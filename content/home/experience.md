@@ -22,18 +22,17 @@ date_format = "Jan 2006"
   company = "Laboratory of Biological Network Characterization, EPFL"
   company_url = "http://lbnc.epfl.ch/"
   location = "Lausanne, Switzerland"
-  date_start = "Oct 2015"
+  date_start = "October 2015"
   date_end = ""
   description = """Research on combining cell-free synthetic biology with microfluidics."""
-
 
 [[experience]]
   title = "PhD Student"
   company = "Cavendish Laboratory, University of Cambridge"
   company_url = ""
   location = "Cambridge, United Kingdom"
-  date_start = "Oct 2011"
-  date_end = "Jun 2015"
+  date_start = "October 2011"
+  date_end = "June 2015"
   description = """Research on electrokinetic effects and single molecule translocation in nanopores."""
 
 +++
