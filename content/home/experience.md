@@ -24,15 +24,15 @@ date_format = "Jan 2006"
   location = "Lausanne, Switzerland"
   date_start = "2015-10-01"
   date_end = ""
-  description = """Research on combining cell-free synthetic biology with microfluidics."""
+  description = """Combining cell-free synthetic biology with microfluidics, in the lab of Prof. Sebastian Maerkl."""
 
 [[experience]]
   title = "PhD Student"
-  company = "Cavendish Laboratory, University of Cambridge"
-  company_url = ""
+  company = "Keyser Lab, Cavendish Laboratory, University of Cambridge"
+  company_url = "http://people.bss.phy.cam.ac.uk/~ufk20/"
   location = "Cambridge, United Kingdom"
   date_start = "2011-10-01"
   date_end = "2015-06-01"
-  description = """Research on electrokinetic effects and single molecule translocation in nanopores."""
+  description = """Electrokinetic effects and single molecule translocation in nanopores, in the lab of Prof. Ulrich Keyser."""
 
 +++

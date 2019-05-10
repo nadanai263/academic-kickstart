@@ -14,6 +14,8 @@ role: Postdoctoral Scientist
 
 # Organizations/Affiliations
 organizations:
+- name: Institute of Bioengineering
+  url: "https://www.epfl.ch/research/domains/bioengineering/"
 - name: École Polytechnique Fédérale de Lausanne
   url: "https://www.epfl.ch/en/home/"
 
@@ -28,10 +30,10 @@ interests:
 education:
   courses:
   - course: PhD in Biophysics
-    institution: University of Cambridge
+    institution: Trinity College, University of Cambridge
     year: 2015
   - course: BA/MSci in Physics
-    institution: University of Cambridge
+    institution: Trinity College, University of Cambridge
     year: 2010
 
 
@@ -43,6 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/nadanai-laohakunakorn-02223b157/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/nadanai263
@@ -52,6 +57,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/nadanai263
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
