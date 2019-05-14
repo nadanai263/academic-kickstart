@@ -10,3 +10,14 @@ url_pdf = "https://pubs.rsc.org/en/content/articlehtml/2014/sm/c3sm52830h"
 doi = "10.1039/c3sm52830h"
 +++
 
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  # Caption (optional)
+  caption: "Photo by [Academic](https://sourcethemes.com/academic/)"
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point: "Center"
+  # Show image only in page previews?
+  preview_only: false
+
