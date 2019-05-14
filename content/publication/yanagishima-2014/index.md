@@ -8,7 +8,7 @@ featured = false
 publication = "*Soft Matter*"
 url_pdf = "https://pubs.rsc.org/en/content/articlehtml/2014/sm/c3sm52830h"
 doi = "10.1039/c3sm52830h"
-image = 
-	focal_point = "Center"
+[image]
+focal_point = "Center"
 +++
 
