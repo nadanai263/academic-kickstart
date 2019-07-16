@@ -50,9 +50,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "nadanai.laohakunakorn@epfl.ch"
-phone = "+41 (0)21 693 1169"
-address = "BM 2137 Station 17, EPFL-STI-IBI-LBNC, 1015 Lausanne, Switzerland"
+email = "nadanai910@gmail.ch"
+phone = ""
+address = ""
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>

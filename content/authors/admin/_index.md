@@ -10,14 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Scientist
+role: Chancellor Fellow in Biotechnology
 
 # Organizations/Affiliations
 organizations:
-- name: Institute of Bioengineering
-  url: "https://www.epfl.ch/research/domains/bioengineering/"
-- name: École Polytechnique Fédérale de Lausanne
-  url: "https://www.epfl.ch/en/home/"
+- name: School of Biological Sciences
+  url: "https://www.ed.ac.uk/biology"
+- name: University of Edinburgh
+  url: "https://www.ed.ac.uk"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am carrying out research in cell-free synthetic biology, with the aim of enabling quantitative and predictive forward engineering in these simplified systems.
@@ -74,7 +74,7 @@ user_groups:
 - Visitors
 ---
 
-My interests lie at the intersection of physics, biology and engineering. At EPFL I am carrying out research in cell-free synthetic biology, with the aim of enabling quantitative and predictive forward engineering in these simplified systems.
+My interests lie at the intersection of physics, biology and engineering. At Edinburgh, I am carrying out research in cell-free synthetic biology, with the aim of enabling quantitative and predictive forward engineering in these simplified systems.
 
 This work develops foundational technology for the growing field of cell-free synthetic biology. It also provides a unique approach to understanding life by building it up from its most basic components.
 
