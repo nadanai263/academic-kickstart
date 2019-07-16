@@ -78,4 +78,4 @@ My interests lie at the intersection of physics, biology and engineering. At Edi
 
 This work develops foundational technology for the growing field of cell-free synthetic biology. It also provides a unique approach to understanding life by building it up from its most basic components.
 
-Outside the lab, I am a freelance classical pianist and vocal coach with interests in chamber music, opera, and accompaniment, and I give regular recitals in Switzerland and beyond.
+Outside the lab, I am a freelance classical pianist and vocal coach with interests in chamber music, opera, and accompaniment, and I give regular recitals in the UK, Switzerland, and beyond.
