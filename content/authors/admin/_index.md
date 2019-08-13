@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Chancellor Fellow in Biotechnology
+role: Chancellor's Fellow in Biotechnology
 
 # Organizations/Affiliations
 organizations:
