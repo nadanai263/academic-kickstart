@@ -50,9 +50,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "nadanai910@gmail.ch"
+email = "nadanai.laohakunakorn@ed.ac.uk"
 phone = ""
-address = ""
+address = "Roger Land Building, Alexander Crum Brown Road, The King's Buildings, Edinburgh EH9 3FF"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
@@ -65,7 +65,7 @@ address = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/nadanai263"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:nadanai910?call"},
+#  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:nadanai910?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
